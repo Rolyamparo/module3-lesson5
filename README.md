@@ -1,2 +1,8 @@
-# module3-lesson5
-This discussion is all about box-model
+# HTML + CSS Module 3 Lesson 5
+
+### Topics Discussed:
+
+-   Box Model
+-   Element Geometry
+-   Element Types
+-   Structural Pseudo-Classes
